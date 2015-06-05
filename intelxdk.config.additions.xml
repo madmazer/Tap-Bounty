@@ -1,0 +1,2 @@
+<intelxdk:plugin intelxdk:name="cc.fovea.plugins.inapppurchase" intelxdk:value="cc.fovea.plugins.inapppurchase" />
+<intelxdk:plugin intelxdk:name="com.mcm.plugins.androidinappbilling" intelxdk:value="https://github.com/maxmoore14/AndroidInAppBilling.git" />
